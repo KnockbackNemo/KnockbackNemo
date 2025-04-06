@@ -14,6 +14,7 @@ I like stars, so I put a sky on my ceiling and added constellations using glow i
 <img src="https://github.com/user-attachments/assets/18aa569b-7d7d-4365-aae1-17ffe7b99197" width="600">
 
 This is my Discord profile picture:
+
 <img src="https://github.com/user-attachments/assets/8c2f1397-06e3-41ae-a5d8-fa00109ac404" width="100">
 
 I also have made one title for one game jam:
@@ -28,24 +29,17 @@ Music Composition final projects
 MUS214C Final Project
 <iframe src="https://utexas.app.box.com/embed/s/m4vjrku5i06v38dxbu8ictr1l0bktzt3?sortColumn=date" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
-MUS605B Final Project- Squirrel
+GameJam (Panoodlers) short music
 <iframe src="https://utexas.app.box.com/embed/s/s77f3g96vq474cvfpyc4hz5o9jvzywb3?sortColumn=date" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
-GameJam (GoPhish) Lofi
-<iframe src="https://utexas.app.box.com/embed/s/vrrw48y7pe6iygdytrpkuxia5irk2hws?sortColumn=date" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+MUS605B Final Project
+<iframe src="https://utexas.app.box.com/embed/s/0i2oozouqr4tam9qjw4ozey19ixbuza5?sortColumn=date" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
-GameJam (Panoodlers) short music
+GameJam (GoPhish) Lofi
 <iframe src="https://utexas.app.box.com/embed/s/00oxnlfwsdogrejt5w7kjdlrg50n7aud?sortColumn=date" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 MUS302L Final Project
 <iframe src="https://utexas.app.box.com/embed/s/vrrw48y7pe6iygdytrpkuxia5irk2hws?sortColumn=date" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
-
-  there should be audio above this and video below this:
-video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" data-canonical-src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-  </video>
-
-  is there a video above here?
-
 
 
 ## Games
@@ -63,7 +57,7 @@ A video of Panoodling:
 https://github.com/user-attachments/assets/f7a7f599-d13a-4784-9fcd-c5b3b03d11b7
 
 
-##That's all for now, folks! Thanks for coming!
+## That's all for now, folks! Thanks for coming!
 <!--
 **KnockbackNemo/KnockbackNemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

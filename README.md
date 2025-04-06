@@ -22,7 +22,7 @@ I also have made one title for one game jam:
 
 ## Music
 Compositions
-Here are some compositions I have made. There are ordered newest to oldest in hopes that my lack of experience will at least somewhat defend the pain of listening to them.
+Here are some compositions I have made. There are ordered (approximately) newest to oldest in hopes that my lack of experience will at least somewhat defend the pain of listening to them.
 
 Music Composition final projects
 

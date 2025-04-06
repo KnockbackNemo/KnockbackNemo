@@ -9,7 +9,7 @@ Room Mural
 I like stars, so I put a sky on my ceiling and added constellations using glow in the dark stickers and paint. I also put an arctic scene on one wall.
 
 This is my Discord profile picture:
-![Stabbynobackground](https://github.com/user-attachments/assets/8c2f1397-06e3-41ae-a5d8-fa00109ac404)
+<img src="https://github.com/user-attachments/assets/8c2f1397-06e3-41ae-a5d8-fa00109ac404" width="48">
 
 I also have made one title for one game jam:
 ![GoPhish_Title_with_boxes](https://github.com/user-attachments/assets/290a8357-3156-43cb-9d15-62a44e6004bb)

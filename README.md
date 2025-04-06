@@ -56,6 +56,7 @@ Bug-AHHHH! ! in the MegaMicro Jam on [Itch](https://egads-austin.itch.io/egads-m
 A video of Panoodling: 
 <iframe src="https://utexas.app.box.com/embed/s/hvsib8x2jifm81pbyry1wi6zpeucf5ak?sortColumn=date" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
+My Github link is also here: https://github.com/KnockbackNemo
 
 ## That's all for now, folks! Thanks for coming!
 <!--

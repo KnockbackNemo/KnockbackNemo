@@ -32,7 +32,7 @@ MUS214C Final Project
 GameJam (Panoodlers) short music
 <iframe src="https://utexas.app.box.com/embed/s/s77f3g96vq474cvfpyc4hz5o9jvzywb3?sortColumn=date" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
-MUS605B Final Project
+MUS605B Final Project - Squirrel
 <iframe src="https://utexas.app.box.com/embed/s/0i2oozouqr4tam9qjw4ozey19ixbuza5?sortColumn=date" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 GameJam (GoPhish) Lofi
@@ -54,7 +54,7 @@ Bug-AHHHH! ! in the MegaMicro Jam on [Itch](https://egads-austin.itch.io/egads-m
 ![image](https://github.com/user-attachments/assets/892b127f-976e-4ec8-8319-7fc01e7bb189)
 
 A video of Panoodling: 
-https://github.com/user-attachments/assets/f7a7f599-d13a-4784-9fcd-c5b3b03d11b7
+<iframe src="https://utexas.app.box.com/embed/s/hvsib8x2jifm81pbyry1wi6zpeucf5ak?sortColumn=date" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 
 
 ## That's all for now, folks! Thanks for coming!

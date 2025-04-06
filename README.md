@@ -17,9 +17,6 @@ This is my Discord profile picture:
 
 <img src="https://github.com/user-attachments/assets/8c2f1397-06e3-41ae-a5d8-fa00109ac404" width="100">
 
-I also have made one title for one game jam:
-,img src="https://github.com/user-attachments/assets/290a8357-3156-43cb-9d15-62a44e6004bb" width="200">
-
 ## Music
 Compositions
 Here are some compositions I have made. There are ordered (approximately) newest to oldest in hopes that my lack of experience will at least somewhat defend the pain of listening to them.
@@ -46,7 +43,10 @@ MUS302L Final Project
 
 I've done some Game Jams:
 
+
 Go Phish is on [itch](https://angelasrsh.itch.io/gophish).
+<img width="642" alt="GoPhish1" src="https://github.com/user-attachments/assets/0f53b63e-5acd-4c1a-92ac-c5894ac7c676" />
+<img width="643" alt="GoPhish2" src="https://github.com/user-attachments/assets/27c40a64-c151-4007-9884-99ff87b8e0f9" />
 
 MegaMicro Jams:
 
